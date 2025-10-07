@@ -21,11 +21,7 @@ Gosto de desenvolver softwares e aprender em dobro.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-## **GitHub Estatísticas**
 
-<a href="https://github.com/jonhy751">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhy751&theme=dark&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/jonhy751">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonhy751&show_icons=true&theme=dark&line_height=27" alt="jonhy751" github stats"/>
