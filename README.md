@@ -32,8 +32,8 @@ Gosto de desenvolver softwares e aprender em dobro.
 </a>
 
 
-[instagram]: https://www.instagram.com/jonhy751/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/jonhy-everton-5609061b7/
+[instagram]: https://www.instagram.com/jonhy_751/
+[linkedin]: https://www.linkedin.com/in/jonhy-everton-5609061b7/]
 <br>
 
 #### Rede Sociais!
