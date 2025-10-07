@@ -23,10 +23,6 @@ Gosto de desenvolver softwares e aprender em dobro.
 
 
 
-<a href="https://github.com/jonhy751">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonhy751&show_icons=true&theme=dark&line_height=27" alt="jonhy751" github stats"/>
-</a>
-
 
 [instagram]: https://www.instagram.com/jonhy_751/
 [linkedin]: https://www.linkedin.com/in/jonhy-santana-5609061b7
